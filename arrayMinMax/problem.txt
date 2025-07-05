@@ -1,0 +1,24 @@
+Given an array of numbers of size N you need to output the minimum (smallest) and maximum (largest) elements from the array.
+In the first line you are given the number N that represents how many numbers are in the input (For example if the first number is 3 then there would be 3 more numbers beneath the first number).
+
+Assuming this is the input:
+
+
+5
+25
+3
+1
+56
+8
+
+
+The smallest number is 1 and the largest is 56
+
+
+Output
+
+
+1 56
+
+
+Constraint: all of the numbers are smaller than 108 and bigger than -108
