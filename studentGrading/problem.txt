@@ -1,0 +1,16 @@
+From the file input.txt you'll receive 5 lines of input where a student's name (string) and their points (int) will be provided. 
+If the points of the student are lower than 50, they have failed the course, throw an exception message 
+'Student failed the course'
+In the end in a new line output the average number of points of the students that have passed the course.
+
+Input
+John 60
+Mark 85
+Stephen 48
+Anna 83
+Mathew 76
+
+Output
+Student failed the course
+76
+
