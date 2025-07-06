@@ -1,3 +1,5 @@
+Source: https://coddy.tech/courses/cpp_file_handling
+
 From the file input.txt you'll receive 5 lines of input where a student's name (string) and their points (int) will be provided. 
 If the points of the student are lower than 50, they have failed the course, throw an exception message 
 'Student failed the course'
@@ -13,4 +15,5 @@ Mathew 76
 Output
 Student failed the course
 76
+
 

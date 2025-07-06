@@ -1,3 +1,5 @@
+Source: https://coddy.tech/courses/cpp_file_handling
+
 Given an array of numbers of size N you need to output the minimum (smallest) and maximum (largest) elements from the array.
 In the first line you are given the number N that represents how many numbers are in the input (For example if the first number is 3 then there would be 3 more numbers beneath the first number).
 
