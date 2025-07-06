@@ -1,1 +1,18 @@
 Source: https://coddy.tech/courses/cpp_file_handling
+
+From the file input.txt you'll receive 5 lines of input where a book's name (string) and the number of days taken to be returned (int). 
+
+If a book has been borrowed for more than 14 days, throw an exception message "Book overdue"
+
+In the end in a new line output the average number of days the books were being borrowed.
+
+Input
+"The_Great_Gatsby" 5 
+"To_Kill_a_Mockingbird" 2 
+"1984" 14
+"Pride_and_Prejudice" 10 
+"Moby_Dick" 25
+
+Output
+Book overdue 
+11.2
