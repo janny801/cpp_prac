@@ -1,1 +1,23 @@
 Source: https://coddy.tech/courses/cpp_file_handling
+
+Write a program that takes 3 natural numbers from the input file 'input.txt'
+
+and outputs every number from the Fibonacci sequence that is less than or equal to N each in a new line.
+
+The Fibonacci sequence is the series of numbers as following: 
+
+1, 1, 2, 3, 5, 8, ...
+
+
+The next number is found by adding up the two numbers before it.
+
+Fn = Fn-1 + Fn-2
+
+Input: 
+4 9 6
+
+Output:
+1 1 2 3
+1 1 2 3 5 8
+1 1 2 3 5
+
