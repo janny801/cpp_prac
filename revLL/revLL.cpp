@@ -47,7 +47,5 @@ public:
 
         return head; //pointing to the same memory address as where curr started 
                     //we just used curr as an iterator to get thru the stack
-
-        
     }
 };
