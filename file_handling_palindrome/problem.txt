@@ -1,3 +1,5 @@
+source: https://coddy.tech/courses/cpp_file_handling/challenge_2
+
 Write a program that for 5 given strings in the file input.txt outputs Palindrome if the string is a palindrome and Not a palindrome if it isn't.
 A palindrome is a word that reads the same backwards as forwards
 
