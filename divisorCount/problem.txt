@@ -1,1 +1,10 @@
 Source: https://coddy.tech/courses/cpp_file_handling
+
+Write a program that will read input from the file input.txt, you'll be given 5 numbers, for each of those numbers calculate the number of divisors they have and write them separated with a whitespace in the output file output.txt.
+
+Input
+5 7 10 8 12
+
+Output
+2 2 4 4 6
+
