@@ -1,3 +1,20 @@
 source: https://coddy.tech/challenges/sipping_cocoa_by_the_fireplace_cpp?daily=true
 
 
+Create a function named sippingCocoa that receives dipper and sips as its parameters.
+
+The function simulates drinking hot cocoa from a dipper on a cozy winter evening by the fireplace. 
+It modifies the contents of the dipper based on the number of sips taken.
+
+Your task is to implement the sipping process and return the final contents of the dipper after all sips have been taken.
+
+Parameters:
+
+dipper (string): A string containing only 'C' and 'M' characters, where 'C' represents hot cocoa and 'M' represents marshmallows.
+sips (int): An integer representing the number of sips to take from the dipper.
+The function should follow these rules:
+
+Each sip removes one character from the beginning of the string.
+After every two sips, if there's still cocoa left in the dipper, add a marshmallow ('M') to the end of the string.
+Continue this process until all sips have been taken or the dipper is empty.
+The function returns a string representing the final contents of the dipper after all sips have been taken or the dipper is empty.
