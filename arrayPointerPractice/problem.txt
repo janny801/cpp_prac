@@ -1,2 +1,18 @@
 Source: https://coddy.tech/courses/cpp_pointers
 
+Given the following array of integers:
+
+int numbers[] = {10, 20, 30, 40, 50, 60, 70, 80};
+
+Create a pointer ptr1 that points to the first element of the array.
+
+Create a pointer ptr2 and assign the value of ptr to it
+
+Increment ptr2 to move to the fourth element
+
+Create ptr3 and give it the value of ptr2 
+
+Decrement ptr3 by 2 positions
+
+Calculate and PRINT the number of elements between the first and last elements in the array,
+using pointer subtraction in the following way There are {elements} elements between {first} and {last}
