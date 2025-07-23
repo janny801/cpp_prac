@@ -1,1 +1,14 @@
 source: https://coddy.tech/courses/cpp_pointers
+
+On input, you will be given a number N representing the number of elements for an array. 
+Dynamically create an array called numbers using a pointer and allocate space for N integers. 
+On the next line of input, you will be given N elements input each of them using a for loop 
+and finally print out all of the elements on even positions (starting index is 0). 
+Finally, deallocate the memory you allocated in the beginning
+
+Input
+5
+1 2 3 4 5
+
+Output
+1 3 5
