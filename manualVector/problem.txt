@@ -1,1 +1,10 @@
 source: https://coddy.tech/courses/cpp_pointers
+
+Given the dynamically allocated array
+Don't change the default code, in the middle add code to input 3 numbers to add to the back of the array
+
+Input:
+6 7 8
+
+Expected Output:
+1 2 3 4 5 6 7 8
