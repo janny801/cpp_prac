@@ -1,4 +1,4 @@
-
+source: https://www.hackerrank.com/challenges/attribute-parser/problem?isFullScreen=true
 
 This challenge works with a custom-designed markup language HRML (HackerRank Markup Language)
 In HRML, each element consists of a starting and ending tag, and there are attributes associated with each tag. 
