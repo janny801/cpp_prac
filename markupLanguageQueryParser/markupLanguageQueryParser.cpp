@@ -3,6 +3,7 @@
 #include <vector>
 #include <iostream>
 #include <algorithm>
+#include <string>
 using namespace std;
 
 string getOutput(const string& queryLine, const vector<string>& hrml)
@@ -162,12 +163,6 @@ int main() {
         cout<<result<<endl; //output from the helper function 
         
     }
-    
-    
-    
-    
-    
-    
     
     
     /*testing
